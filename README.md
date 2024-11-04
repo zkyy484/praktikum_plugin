@@ -24,7 +24,7 @@
 
 - Jelaskan fungsi dari anotasi @immutable dan @override!
   - Jawab:
-      - @immutable merupakan sebuah penanda yang digunakan untuk menandai sebuah kelas yang bersifat mutlak (tidak diubah). Sehiingga kelas yang diberi penanda ini tidak atau jarang diubah. Biasanya @immutable ini digunakan pada kelas yang bersifat state.
-      - @override merupakan sebuah penanda yang digunakan pada kelas yang mendefinisikan ulang atribut yang terdapat pada class induk. Sehingga biasanya tanda ini digunakan pada class anak (subclass). Tujuan utamanya yakni untuk meningkatkan keterbacaan kode pada kelas anak serta mencegah kesalahan - kesalahan lainnya.
+      - **@immutable** merupakan sebuah penanda yang digunakan untuk menandai sebuah kelas yang bersifat mutlak (tidak diubah). Sehiingga kelas yang diberi penanda ini tidak atau jarang diubah. Biasanya @immutable ini digunakan pada kelas yang bersifat state.
+      - **@override** merupakan sebuah penanda yang digunakan pada kelas yang mendefinisikan ulang atribut yang terdapat pada class induk. Sehingga biasanya tanda ini digunakan pada class anak (subclass). Tujuan utamanya yakni untuk meningkatkan keterbacaan kode pada kelas anak serta mencegah kesalahan - kesalahan lainnya.
 
 
