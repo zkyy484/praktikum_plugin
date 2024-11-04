@@ -1,16 +1,19 @@
-# prak_plugin
+**NAMA : MOCH. DZAKY MUSYADDAD**                                                                                                                                                
+**NIM : 362358302011**                                                                                                                                                           
+**KELAS : 2A TRPL**                                                                                                                                                              
 
-A new Flutter project.
+**- PRAKTIKUM**
+- Melakukan penerapan plugin pada auto_size_text
+  ![image](https://github.com/user-attachments/assets/77ecee7e-2152-4554-baf9-28a1aa9e0f9c)
+  - Keterangan: Melakukan install plugin pada auto_size_text di terminal
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- Tampilan Saat Menerapkan auto_size_text
+  ![image](https://github.com/user-attachments/assets/f0214b5d-b183-45e5-99f0-efaf3059afc3)
+  - Keterangan: Melakukan run pada project yang sudah menerapkan auto_size_text.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**- TUGAS PRAKTIKUM**
+![image](https://github.com/user-attachments/assets/70ab876a-d4e4-4104-81f0-321ecdb9eccc)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
