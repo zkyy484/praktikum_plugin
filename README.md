@@ -2,7 +2,7 @@
 **NIM : 362358302011**                                                                                                                                                           
 **KELAS : 2A TRPL**                                                                                                                                                              
 
-**- PRAKTIKUM**
+**1. PRAKTIKUM**
 - Melakukan penerapan plugin pada auto_size_text
   ![image](https://github.com/user-attachments/assets/77ecee7e-2152-4554-baf9-28a1aa9e0f9c)
   - Keterangan: Melakukan install plugin pada auto_size_text di terminal
@@ -13,7 +13,7 @@
   - Keterangan: Melakukan run pada project yang sudah menerapkan auto_size_text.
 
 
-**- TUGAS PRAKTIKUM**
+**2. TUGAS PRAKTIKUM**
 ![image](https://github.com/user-attachments/assets/70ab876a-d4e4-4104-81f0-321ecdb9eccc)
 
 
