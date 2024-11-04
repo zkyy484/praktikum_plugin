@@ -15,6 +15,11 @@
 
 **2. TUGAS PRAKTIKUM**
 - Tampilan 
-![image](https://github.com/user-attachments/assets/70ab876a-d4e4-4104-81f0-321ecdb9eccc)
+  ![image](https://github.com/user-attachments/assets/70ab876a-d4e4-4104-81f0-321ecdb9eccc)
+  - Keterangan: Menggambungkan praktikum 1 dengan praktikum 2.
+
+
+- Jelaskan maksud void async pada praktikum 1!
+  - Jawab: void async merupakan sebuah metode operasi yang bersifat asychronous, yang memungkin proses dijalankan pada latar belakang. Dengan kata lain metode melakukan proses penggunaan camera. Camera disinin
 
 
